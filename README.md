@@ -1,2 +1,2 @@
 # mydemo-june01
-My demp repo -edited via github web interface
+My demo repo -edited via github web interface
